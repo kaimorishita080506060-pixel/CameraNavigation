@@ -160,6 +160,8 @@ Hints and resources
 
 Completion
 
+Upload your code, and pictures or video of your program meeting the required functionality to this repository.
+
 * Map loads from your Node server and displays tiles.
 * A location marker appears and updates or the map centers on the reported position.
 * Clicking the map creates a visible interactive element at the clicked coordinates.
